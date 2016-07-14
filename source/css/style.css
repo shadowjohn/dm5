@@ -1,0 +1,26 @@
+.thetable #comic_list_td{
+  width:100px;
+}
+.thetable{
+  width:95%;
+}
+.clist{
+  width:100%;
+  border:0px;
+}
+.clist td{
+  padding:5px;
+}
+.itemtable{
+  width:100%;
+}
+.itemtable th[field='¥U']{
+  width:200px;
+}
+.itemtable th[field='¤U¸ü']{
+  width:50px;
+  text-align:center;
+}
+.itemtable td{
+  padding:3px;
+}

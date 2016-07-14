@@ -1,0 +1,561 @@
+- 15:46:36.063 INFO: --------------------------------------------------------
+- 15:46:36.063 INFO: Started application
+- 15:46:36.063 INFO: Logging to: C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log
+- 15:46:36.063 INFO: Log level = DEBUG4
+- 15:46:36.063 INFO: Starting Mongoose 3.9c web server
+- 15:46:36.063 INFO: WWW directory: C:\Users\john.GIS\Desktop\dm5_chome\source
+- 15:46:36.063 INFO: Index files: index.php
+- 15:46:36.063 INFO: CGI interpreter: C:\Users\john.GIS\Desktop\dm5_chome\php\php-cgi.exe
+- 15:46:36.063 INFO: CGI pattern: **.php$
+- 15:46:36.063 INFO: Hide files patterns: 
+- 15:46:36.063 INFO: CGI environment variables set: TMP=C:\Users\john.GIS\AppData\Local\Temp\,TEMP=C:\Users\john.GIS\AppData\Local\Temp\,TMPDIR=C:\Users\john.GIS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 15:46:36.063 INFO: Web server url: http://127.0.0.1:63891/
+- 15:46:36.063 INFO: remote_debugging_port = 50726
+- 15:46:36.078 DEBUG: Command line string for the browser process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --remote-debugging-port=50726
+[0714/154636:WARNING:resource_bundle.cc(305)] locale_file_path.empty() for locale 
+[0714/154636:ERROR:main_delegate.cc(722)] Could not load locale pak for en-US
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+- 15:46:36.125 DEBUG: App::OnContextInitialized()
+- 15:46:36.125 DEBUG: Window max width/height = 1840/951
+- 15:46:36.125 DEBUG: GetBrowserWindow(): not found, hwnd = 657286
+- 15:46:36.125 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:46:36.141 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:46:36.141 DEBUG: StoreBrowserWindow(): hwnd = 657286
+- 15:46:36.000 DEBUG: Command line string for the gpu-process process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=gpu-process --channel="1764.0.311689368\46337938" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,12,23,51,61 --gpu-vendor-id=0x10de --gpu-device-id=0x06e4 --gpu-driver-vendor=NVIDIA --gpu-driver-version=9.18.13.4195 --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" /prefetch:822062411
+[0714/154636:WARNING:resource_bundle.cc(305)] locale_file_path.empty() for locale 
+[0714/154636:ERROR:main_delegate.cc(722)] Could not load locale pak for en-US
+- 15:46:36.172 DEBUG: ClientHandler::OnAfterCreated()
+- 15:46:36.172 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:46:36.172 DEBUG: OnLoadingStateChange: loading=1, url=
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154636:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+- 15:46:36.000 DEBUG: Command line string for the renderer process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="1764.1.1496500053\2100568249" /prefetch:673131151
+[0714/154636:WARNING:resource_bundle.cc(305)] locale_file_path.empty() for locale 
+[0714/154636:ERROR:main_delegate.cc(722)] Could not load locale pak for en-US
+- 15:46:36.046 DEBUG: OnBrowserCreated()
+- 15:46:38.578 INFO: GET 200 /inc/javascript/php/php.js
+- 15:46:38.578 INFO: GET 200 /inc/javascript/jquery/jquery-1.8.3.min.js
+- 15:46:38.406 DEBUG: OnContextCreated()
+- 15:46:38.594 INFO: GET 200 /
+- 15:46:38.594 INFO: GET 200 /css/reset.css
+- 15:46:38.594 INFO: GET 200 /css/style.css
+- 15:46:38.594 INFO: GET 200 /inc/javascript/include.js
+[0714/154638:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+- 15:46:38.984 INFO: POST 200 /api.php?mode=reload_list
+- 15:46:38.031 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63891/
+- 15:46:43.938 DEBUG: WM_DESTROY
+- 15:46:43.938 DEBUG: RemoveBrowserWindow(): hwnd = 657286
+- 15:46:43.938 INFO: Stopping Mongoose web server
+- 15:46:43.938 DEBUG: Mongoose webserver stopped immediately
+- 15:46:43.938 DEBUG: OnBeforeClose() hwnd=264570
+- 15:46:43.938 DEBUG: RemoveBrowserWindow(): hwnd = 264570
+- 15:46:43.938 DEBUG: GetBrowserWindow(): not found, hwnd = 264570
+- 15:46:43.938 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:46:43.938 DEBUG: Calling CefQuitMessageLoop()
+- 15:46:43.765 DEBUG: OnBrowserDestroyed()
+- 15:46:43.984 INFO: Ended application
+- 15:46:43.984 INFO: --------------------------------------------------------
+- 15:46:45.062 INFO: --------------------------------------------------------
+- 15:46:45.062 INFO: Started application
+- 15:46:45.062 INFO: Logging to: C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log
+- 15:46:45.062 INFO: Log level = DEBUG4
+- 15:46:45.062 INFO: Starting Mongoose 3.9c web server
+- 15:46:45.078 INFO: WWW directory: C:\Users\john.GIS\Desktop\dm5_chome\source
+- 15:46:45.078 INFO: Index files: index.php
+- 15:46:45.078 INFO: CGI interpreter: C:\Users\john.GIS\Desktop\dm5_chome\php\php-cgi.exe
+- 15:46:45.078 INFO: CGI pattern: **.php$
+- 15:46:45.078 INFO: Hide files patterns: 
+- 15:46:45.078 INFO: CGI environment variables set: TMP=C:\Users\john.GIS\AppData\Local\Temp\,TEMP=C:\Users\john.GIS\AppData\Local\Temp\,TMPDIR=C:\Users\john.GIS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 15:46:45.078 INFO: Web server url: http://127.0.0.1:63899/
+- 15:46:45.078 INFO: remote_debugging_port = 63272
+- 15:46:45.078 DEBUG: Command line string for the browser process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --remote-debugging-port=63272
+[0714/154645:WARNING:resource_bundle.cc(305)] locale_file_path.empty() for locale 
+[0714/154645:ERROR:main_delegate.cc(722)] Could not load locale pak for en-US
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+- 15:46:45.125 DEBUG: App::OnContextInitialized()
+- 15:46:45.125 DEBUG: Window max width/height = 1840/951
+- 15:46:45.125 DEBUG: GetBrowserWindow(): not found, hwnd = 919562
+- 15:46:45.125 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:46:45.125 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:46:45.125 DEBUG: StoreBrowserWindow(): hwnd = 919562
+- 15:46:45.000 DEBUG: Command line string for the gpu-process process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=gpu-process --channel="8876.0.1276339452\610064143" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,12,23,51,61 --gpu-vendor-id=0x10de --gpu-device-id=0x06e4 --gpu-driver-vendor=NVIDIA --gpu-driver-version=9.18.13.4195 --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" /prefetch:822062411
+[0714/154645:WARNING:resource_bundle.cc(305)] locale_file_path.empty() for locale 
+[0714/154645:ERROR:main_delegate.cc(722)] Could not load locale pak for en-US
+- 15:46:45.156 DEBUG: ClientHandler::OnAfterCreated()
+- 15:46:45.156 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:46:45.172 DEBUG: OnLoadingStateChange: loading=1, url=
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+[0714/154645:WARNING:resource_bundle.cc(503)] locale resources are not loaded
+- 15:46:45.000 DEBUG: Command line string for the renderer process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="8876.1.1319787789\706532541" /prefetch:673131151
+[0714/154645:WARNING:resource_bundle.cc(305)] locale_file_path.empty() for locale 
+[0714/154645:ERROR:main_delegate.cc(722)] Could not load locale pak for en-US
+- 15:46:45.032 DEBUG: OnBrowserCreated()
+- 15:46:46.297 INFO: GET 200 /inc/javascript/jquery/jquery-1.8.3.min.js
+- 15:46:46.297 INFO: GET 200 /inc/javascript/php/php.js
+- 15:46:46.110 DEBUG: OnContextCreated()
+- 15:46:46.312 INFO: GET 200 /inc/javascript/include.js
+- 15:46:46.312 INFO: GET 200 /css/style.css
+- 15:46:46.312 INFO: GET 200 /css/reset.css
+- 15:46:46.312 INFO: GET 200 /
+[0714/154646:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+- 15:46:46.640 INFO: POST 200 /api.php?mode=reload_list
+- 15:46:46.656 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63899/
+- 15:46:53.594 INFO: POST 200 /api.php?mode=reload_comic_list
+- 15:46:55.437 DEBUG: WM_DESTROY
+- 15:46:55.453 DEBUG: RemoveBrowserWindow(): hwnd = 919562
+- 15:46:55.453 INFO: Stopping Mongoose web server
+- 15:46:55.453 DEBUG: Mongoose webserver stopped immediately
+- 15:46:55.453 DEBUG: OnBeforeClose() hwnd=330106
+- 15:46:55.453 DEBUG: RemoveBrowserWindow(): hwnd = 330106
+- 15:46:55.453 DEBUG: GetBrowserWindow(): not found, hwnd = 330106
+- 15:46:55.453 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:46:55.469 DEBUG: Calling CefQuitMessageLoop()
+- 15:46:55.282 DEBUG: OnBrowserDestroyed()
+- 15:46:55.484 INFO: Ended application
+- 15:46:55.484 INFO: --------------------------------------------------------
+- 15:47:13.047 INFO: --------------------------------------------------------
+- 15:47:13.047 INFO: Started application
+- 15:47:13.047 INFO: Logging to: C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log
+- 15:47:13.047 INFO: Log level = DEBUG4
+- 15:47:13.047 INFO: Starting Mongoose 3.9c web server
+- 15:47:13.047 INFO: WWW directory: C:\Users\john.GIS\Desktop\dm5_chome\source
+- 15:47:13.047 INFO: Index files: index.php
+- 15:47:13.047 INFO: CGI interpreter: C:\Users\john.GIS\Desktop\dm5_chome\php\php-cgi.exe
+- 15:47:13.047 INFO: CGI pattern: **.php$
+- 15:47:13.047 INFO: Hide files patterns: 
+- 15:47:13.047 INFO: CGI environment variables set: TMP=C:\Users\john.GIS\AppData\Local\Temp\,TEMP=C:\Users\john.GIS\AppData\Local\Temp\,TMPDIR=C:\Users\john.GIS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 15:47:13.047 INFO: Web server url: http://127.0.0.1:63913/
+- 15:47:13.047 INFO: remote_debugging_port = 52650
+- 15:47:13.047 DEBUG: Command line string for the browser process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --remote-debugging-port=52650
+- 15:47:13.094 DEBUG: App::OnContextInitialized()
+- 15:47:13.094 DEBUG: Window max width/height = 1840/951
+- 15:47:13.109 DEBUG: GetBrowserWindow(): not found, hwnd = 358157550
+- 15:47:13.109 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:47:13.109 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:47:13.109 DEBUG: StoreBrowserWindow(): hwnd = 358157550
+- 15:47:13.000 DEBUG: Command line string for the gpu-process process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=gpu-process --channel="8052.0.374214397\68205928" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,12,23,51,61 --gpu-vendor-id=0x10de --gpu-device-id=0x06e4 --gpu-driver-vendor=NVIDIA --gpu-driver-version=9.18.13.4195 --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" /prefetch:822062411
+- 15:47:13.140 DEBUG: ClientHandler::OnAfterCreated()
+- 15:47:13.140 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:47:13.140 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:47:13.000 DEBUG: Command line string for the renderer process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="8052.1.907513774\1317616682" /prefetch:673131151
+- 15:47:13.031 DEBUG: OnBrowserCreated()
+- 15:47:14.265 INFO: GET 200 /inc/javascript/jquery/jquery-1.8.3.min.js
+- 15:47:14.265 INFO: GET 200 /inc/javascript/php/php.js
+- 15:47:14.109 DEBUG: OnContextCreated()
+- 15:47:14.281 INFO: GET 200 /css/reset.css
+- 15:47:14.281 INFO: GET 200 /css/style.css
+- 15:47:14.281 INFO: GET 200 /
+- 15:47:14.281 INFO: GET 200 /inc/javascript/include.js
+[0714/154714:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+- 15:47:15.640 INFO: POST 200 /api.php?mode=reload_list
+- 15:47:15.672 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63913/
+- 15:47:16.922 DEBUG: OnBeforeClose() hwnd=657774
+- 15:47:16.922 DEBUG: RemoveBrowserWindow(): hwnd = 657774
+- 15:47:16.922 DEBUG: GetBrowserWindow(): not found, hwnd = 657774
+- 15:47:16.922 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:47:16.015 DEBUG: Command line string for the gpu-process process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=gpu-process --channel="8052.2.866489573\502747665" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,12,23,24,51,55,61 --gpu-vendor-id=0x10de --gpu-device-id=0x06e4 --gpu-driver-vendor=NVIDIA --gpu-driver-version=9.18.13.4195 --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" /prefetch:822062411
+- 15:47:35.016 INFO: --------------------------------------------------------
+- 15:47:35.016 INFO: Started application
+- 15:47:35.016 INFO: Logging to: C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log
+- 15:47:35.016 INFO: Log level = DEBUG4
+- 15:47:35.016 INFO: Starting Mongoose 3.9c web server
+- 15:47:35.016 INFO: WWW directory: C:\Users\john.GIS\Desktop\dm5_chome\source
+- 15:47:35.016 INFO: Index files: index.php
+- 15:47:35.016 INFO: CGI interpreter: C:\Users\john.GIS\Desktop\dm5_chome\php\php-cgi.exe
+- 15:47:35.016 INFO: CGI pattern: **.php$
+- 15:47:35.016 INFO: Hide files patterns: 
+- 15:47:35.016 INFO: CGI environment variables set: TMP=C:\Users\john.GIS\AppData\Local\Temp\,TEMP=C:\Users\john.GIS\AppData\Local\Temp\,TMPDIR=C:\Users\john.GIS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 15:47:35.016 INFO: Web server url: http://127.0.0.1:63928/
+- 15:47:35.016 INFO: remote_debugging_port = 62283
+- 15:47:35.016 DEBUG: Command line string for the browser process: "phpdesktop\run.exe" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --remote-debugging-port=62283
+- 15:47:35.062 DEBUG: App::OnContextInitialized()
+- 15:47:35.062 DEBUG: Window max width/height = 1840/951
+- 15:47:35.062 DEBUG: GetBrowserWindow(): not found, hwnd = 213650852
+- 15:47:35.062 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 15:47:35.062 DEBUG: BrowserWindow::CreateBrowserControl()
+- 15:47:35.062 DEBUG: StoreBrowserWindow(): hwnd = 213650852
+- 15:47:35.000 DEBUG: Command line string for the gpu-process process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=gpu-process --channel="8736.0.299779122\1746314398" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,12,23,51,61 --gpu-vendor-id=0x10de --gpu-device-id=0x06e4 --gpu-driver-vendor=NVIDIA --gpu-driver-version=9.18.13.4195 --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" /prefetch:822062411
+- 15:47:35.094 DEBUG: ClientHandler::OnAfterCreated()
+- 15:47:35.094 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 15:47:35.094 DEBUG: OnLoadingStateChange: loading=1, url=
+- 15:47:35.000 DEBUG: Command line string for the renderer process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="8736.1.1452774110\1666680489" /prefetch:673131151
+- 15:47:35.032 DEBUG: OnBrowserCreated()
+- 15:47:36.234 INFO: GET 200 /inc/javascript/jquery/jquery-1.8.3.min.js
+- 15:47:36.250 INFO: GET 200 /inc/javascript/php/php.js
+- 15:47:36.141 DEBUG: OnContextCreated()
+- 15:47:36.250 INFO: GET 200 /inc/javascript/include.js
+- 15:47:36.250 INFO: GET 200 /css/reset.css
+- 15:47:36.266 INFO: GET 200 /css/style.css
+- 15:47:36.266 INFO: GET 200 /
+[0714/154736:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+- 15:47:37.609 INFO: POST 200 /api.php?mode=reload_list
+- 15:47:37.625 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:63928/
+- 15:47:39.203 INFO: POST 200 /api.php?mode=reload_comic_list
+- 15:47:41.016 INFO: POST 200 /api.php?mode=load_comics
+- 15:47:41.219 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERFdWNHNW4=
+- 15:47:41.297 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERVdWNHNW4=
+- 15:47:41.297 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERJdWNHNW4=
+- 15:47:41.297 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERNdWNHNW4=
+- 15:47:41.297 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERRdWNHNW4=
+- 15:47:41.297 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERZdWNHNW4=
+- 15:47:41.469 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERFeExuQnVadz09
+- 15:47:42.578 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERFMExuQnVadz09
+- 15:47:42.578 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERjdWNHNW4=
+- 15:47:42.578 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERFeUxuQnVadz09
+- 15:47:42.578 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERFMUxuQnVadz09
+- 15:47:42.578 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERFekxuQnVadz09
+- 15:47:42.687 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERFd0xuQnVadz09
+- 15:47:42.750 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERrdWNHNW4=
+- 15:47:42.750 INFO: GET 200 /photo.php?_t=1468482461&url=WXpwY1kyOXRhV05jcE5ha2E3dFF2dFNvcmx5azFxUnJ1MUMrMUtpdUlMTEVNYmpjWERndWNHNW4=
+- 15:47:45.969 INFO: POST 200 /api.php?mode=reload_comic_list
+- 15:47:47.562 INFO: POST 200 /api.php?mode=load_comics
+- 15:47:54.344 INFO: POST 200 /api.php?mode=download
+- 15:47:54.391 INFO: POST 200 /api.php?mode=load_comics
+- 15:47:54.437 INFO: POST 200 /api.php?mode=load_comics
+- 15:47:54.531 INFO: POST 200 /api.php?mode=load_comics
+- 15:47:55.672 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFdWNHNW4=
+- 15:47:55.672 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJdWNHNW4=
+- 15:47:55.672 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNdWNHNW4=
+- 15:47:55.672 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRdWNHNW4=
+- 15:47:55.672 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVdWNHNW4=
+- 15:47:55.750 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERndWNHNW4=
+- 15:47:55.953 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFeExuQnVadz09
+- 15:47:55.953 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERrdWNHNW4=
+- 15:47:55.953 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZdWNHNW4=
+- 15:47:55.953 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjdWNHNW4=
+- 15:47:55.953 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFd0xuQnVadz09
+- 15:47:55.984 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFeUxuQnVadz09
+- 15:47:55.203 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFNExuQnVadz09
+- 15:47:55.203 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFMExuQnVadz09
+- 15:47:55.203 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFM0xuQnVadz09
+- 15:47:55.203 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFekxuQnVadz09
+- 15:47:55.203 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFMkxuQnVadz09
+- 15:47:55.203 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFMUxuQnVadz09
+- 15:47:55.469 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJd0xuQnVadz09
+- 15:47:55.469 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJeUxuQnVadz09
+- 15:47:55.469 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJekxuQnVadz09
+- 15:47:55.469 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFNUxuQnVadz09
+- 15:47:55.469 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJeExuQnVadz09
+- 15:47:55.469 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJMExuQnVadz09
+- 15:47:56.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJM0xuQnVadz09
+- 15:47:56.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJMkxuQnVadz09
+- 15:47:56.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJMUxuQnVadz09
+- 15:47:56.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJNExuQnVadz09
+- 15:47:56.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJNUxuQnVadz09
+- 15:47:56.781 INFO: POST 200 /api.php?mode=load_comics
+- 15:47:56.984 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVdWNHNW4&t=1468482476
+- 15:47:56.984 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNdWNHNW4&t=1468482476
+- 15:47:56.984 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJdWNHNW4&t=1468482476
+- 15:47:56.984 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRdWNHNW4&t=1468482476
+- 15:47:56.984 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFdWNHNW4&t=1468482476
+- 15:47:56.047 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERndWNHNW4&t=1468482476
+- 15:47:56.266 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFd0xuQnVadz09&t=1468482476
+- 15:47:56.266 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERrdWNHNW4&t=1468482476
+- 15:47:56.266 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjdWNHNW4&t=1468482476
+- 15:47:56.266 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZdWNHNW4&t=1468482476
+- 15:47:56.266 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNd0xuQnVadz09
+- 15:47:56.281 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNeExuQnVadz09
+- 15:47:56.500 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNM0xuQnVadz09
+- 15:47:56.500 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNMUxuQnVadz09
+- 15:47:56.500 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNMkxuQnVadz09
+- 15:47:56.516 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNeUxuQnVadz09
+- 15:47:56.516 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNekxuQnVadz09
+- 15:47:56.516 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNMExuQnVadz09
+- 15:47:57.750 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERReUxuQnVadz09
+- 15:47:57.750 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNNExuQnVadz09
+- 15:47:57.750 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRekxuQnVadz09
+- 15:47:57.812 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERReExuQnVadz09
+- 15:47:57.812 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNNUxuQnVadz09
+- 15:47:57.812 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRd0xuQnVadz09
+- 15:47:57.969 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRMExuQnVadz09
+- 15:47:57.000 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRMUxuQnVadz09
+- 15:47:57.000 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRMkxuQnVadz09
+- 15:47:57.047 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRNExuQnVadz09
+- 15:47:57.047 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRM0xuQnVadz09
+- 15:47:57.047 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRNUxuQnVadz09
+- 15:47:57.219 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVd0xuQnVadz09
+- 15:47:57.281 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERRdWNHNW4&t=1468482477
+- 15:47:57.281 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVdWNHNW4&t=1468482477
+- 15:47:57.312 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERJdWNHNW4&t=1468482477
+- 15:47:57.312 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERNdWNHNW4&t=1468482477
+- 15:47:57.312 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFdWNHNW4&t=1468482477
+- 15:47:57.469 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERndWNHNW4&t=1468482477
+- 15:47:57.547 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVeUxuQnVadz09
+- 15:47:57.547 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERFd0xuQnVadz09&t=1468482477
+- 15:47:57.547 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVeExuQnVadz09
+- 15:47:58.625 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVMExuQnVadz09
+- 15:47:58.625 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVekxuQnVadz09
+- 15:47:58.797 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVMUxuQnVadz09
+- 15:47:58.797 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVM0xuQnVadz09
+- 15:47:58.812 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVMkxuQnVadz09
+- 15:47:58.875 INFO: POST 200 /api.php?mode=load_comics
+- 15:47:58.891 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVNExuQnVadz09
+- 15:47:58.891 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERVNUxuQnVadz09
+- 15:47:58.047 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZeUxuQnVadz09
+- 15:47:58.141 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZMUxuQnVadz09
+- 15:47:58.141 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZMExuQnVadz09
+- 15:47:58.141 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZeExuQnVadz09
+- 15:47:58.141 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZd0xuQnVadz09
+- 15:47:58.141 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZekxuQnVadz09
+- 15:47:58.344 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZMkxuQnVadz09
+- 15:47:58.406 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjeExuQnVadz09
+- 15:47:58.406 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZNUxuQnVadz09
+- 15:47:58.406 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjd0xuQnVadz09
+- 15:47:58.406 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZNExuQnVadz09
+- 15:47:58.406 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERZM0xuQnVadz09
+- 15:47:59.625 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjeUxuQnVadz09
+- 15:47:59.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjMExuQnVadz09
+- 15:47:59.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjM0xuQnVadz09
+- 15:47:59.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjMkxuQnVadz09
+- 15:47:59.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjekxuQnVadz09
+- 15:47:59.734 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjMUxuQnVadz09
+- 15:47:59.859 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjNExuQnVadz09
+- 15:47:59.969 DEBUG: WM_DESTROY
+- 15:47:59.969 DEBUG: RemoveBrowserWindow(): hwnd = 213650852
+- 15:47:59.969 INFO: Stopping Mongoose web server
+- 15:47:59.969 DEBUG: Mongoose webserver stopped immediately
+- 15:47:59.984 DEBUG: OnBeforeClose() hwnd=788720
+- 15:47:59.984 DEBUG: RemoveBrowserWindow(): hwnd = 788720
+- 15:47:59.984 DEBUG: GetBrowserWindow(): not found, hwnd = 788720
+- 15:47:59.984 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 15:47:59.984 DEBUG: Calling CefQuitMessageLoop()
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+[0714/154759:WARNING:content_browser_client.cc(622)] No browser info matching frame process id 3 and routing id 1
+- 15:47:59.016 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERneUxuQnVadz09
+- 15:47:59.016 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERjNUxuQnVadz09
+- 15:47:59.016 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERneExuQnVadz09
+- 15:47:59.016 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERnekxuQnVadz09
+- 15:47:59.016 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERnd0xuQnVadz09
+- 15:47:59.922 DEBUG: OnBrowserDestroyed()
+- 15:47:59.047 INFO: GET 200 /photo.php?_t=1468482474&url=WXpwY1kyOXRhV05jcGFmRHVhcGxwR3VvNEZ5bHA4TzVxbVdrYTZqZ0lMTEVNcWozWERnMExuQnVadz09
+- 15:47:59.094 INFO: Ended application
+- 15:47:59.094 INFO: --------------------------------------------------------
+- 16:14:56.000 INFO: --------------------------------------------------------
+- 16:14:56.000 INFO: Started application
+- 16:14:56.000 INFO: Logging to: C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log
+- 16:14:56.000 INFO: Log level = DEBUG4
+- 16:14:56.000 INFO: Starting Mongoose 3.9c web server
+- 16:14:56.000 INFO: WWW directory: C:\Users\john.GIS\Desktop\dm5_chome\source
+- 16:14:56.000 INFO: Index files: index.php
+- 16:14:56.000 INFO: CGI interpreter: C:\Users\john.GIS\Desktop\dm5_chome\php\php-cgi.exe
+- 16:14:56.000 INFO: CGI pattern: **.php$
+- 16:14:56.000 INFO: Hide files patterns: 
+- 16:14:56.000 INFO: CGI environment variables set: TMP=C:\Users\john.GIS\AppData\Local\Temp\,TEMP=C:\Users\john.GIS\AppData\Local\Temp\,TMPDIR=C:\Users\john.GIS\AppData\Local\Temp\,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=47.5
+- 16:14:56.000 INFO: Web server url: http://127.0.0.1:50903/
+- 16:14:56.000 INFO: remote_debugging_port = 53756
+- 16:14:56.000 DEBUG: Command line string for the browser process: "phpdesktop\run.exe" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --remote-debugging-port=53756
+- 16:14:56.047 DEBUG: App::OnContextInitialized()
+- 16:14:56.047 DEBUG: Window max width/height = 1840/951
+- 16:14:56.047 DEBUG: GetBrowserWindow(): not found, hwnd = 90312356
+- 16:14:56.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 16:14:56.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 16:14:56.047 DEBUG: StoreBrowserWindow(): hwnd = 90312356
+- 16:14:56.000 DEBUG: Command line string for the gpu-process process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=gpu-process --channel="9096.0.319331076\1265175999" --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --supports-dual-gpus=false --gpu-driver-bug-workarounds=2,12,23,51,61 --gpu-vendor-id=0x10de --gpu-device-id=0x06e4 --gpu-driver-vendor=NVIDIA --gpu-driver-version=9.18.13.4195 --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" /prefetch:822062411
+- 16:14:56.078 DEBUG: ClientHandler::OnAfterCreated()
+- 16:14:56.078 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 16:14:56.093 DEBUG: OnLoadingStateChange: loading=1, url=
+- 16:14:56.000 DEBUG: Command line string for the renderer process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=renderer --no-sandbox --lang=en-US --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" --enable-pinch --device-scale-factor=1 --num-raster-threads=3 --content-image-texture-target=3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553,3553 --video-image-texture-target=3553 --channel="9096.1.104909700\1814330142" /prefetch:673131151
+- 16:14:56.047 DEBUG: OnBrowserCreated()
+- 16:14:57.234 INFO: GET 200 /inc/javascript/jquery/jquery-1.8.3.min.js
+- 16:14:57.234 INFO: GET 200 /inc/javascript/php/php.js
+- 16:14:57.141 DEBUG: OnContextCreated()
+- 16:14:57.250 INFO: GET 200 /css/style.css
+- 16:14:57.250 INFO: GET 200 /inc/javascript/include.js
+- 16:14:57.250 INFO: GET 200 /css/reset.css
+- 16:14:57.265 INFO: GET 200 /
+[0714/161457:INFO:CONSOLE(0)] "Synchronous XMLHttpRequest on the main thread is deprecated because of its detrimental effects to the end user's experience. For more help, check http://xhr.spec.whatwg.org/.", source:  (0)
+- 16:14:58.625 INFO: POST 200 /api.php?mode=reload_list
+- 16:14:58.640 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:50903/
+- 16:15:26.000 DEBUG: Command line string for the utility process: "C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\RUN.exe" --type=utility --channel="9096.2.2072479507\1385447511" --lang=en-US --no-sandbox --no-sandbox --lang=en-US --log-file="C:\Users\john.GIS\Desktop\dm5_chome\phpdesktop\debug.log" /prefetch:-645351001
+- 16:16:52.281 DEBUG: WM_DESTROY
+- 16:16:52.281 DEBUG: RemoveBrowserWindow(): hwnd = 90312356
+- 16:16:52.281 INFO: Stopping Mongoose web server
+- 16:16:52.281 DEBUG: Mongoose webserver stopped immediately
+- 16:16:52.281 DEBUG: OnBeforeClose() hwnd=7081914
+- 16:16:52.281 DEBUG: RemoveBrowserWindow(): hwnd = 7081914
+- 16:16:52.281 DEBUG: GetBrowserWindow(): not found, hwnd = 7081914
+- 16:16:52.281 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 16:16:52.281 DEBUG: Calling CefQuitMessageLoop()
+- 16:16:52.204 DEBUG: OnBrowserDestroyed()
+- 16:16:52.312 INFO: Ended application
+- 16:16:52.312 INFO: --------------------------------------------------------
