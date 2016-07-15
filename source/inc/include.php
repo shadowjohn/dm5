@@ -1,4 +1,10 @@
 <?php
+  function comic_log($data){
+    global $base_dir;
+    global $SP;
+    @mkdir("{$base_dir}{$SP}..{$SP}log",0777,true);
+    file_put_contents("{$base_dir}{$SP}..{$SP}log{$SP}debug.txt","{$data}\n",FILE_APPEND);
+  }
   function getGET_POST($inputs,$mode)
   {
     $mode=strtoupper(trim($mode));
