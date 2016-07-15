@@ -3,13 +3,7 @@
   $GETS_STRING="mode";
   $GETS=getGET_POST($GETS_STRING,'GET');   
   $PWD=dirname(__FILE__);
- 
-  function comic_log($data)
-  {
-    global $PWD;
-    @mkdir("{$PWD}/tmp",0777,true);
-    file_put_contents("{$PWD}/tmp/log.txt",$data);
-  }
+
   switch($GETS['mode'])
   {
     case 'reload_list':
@@ -22,7 +16,7 @@
         $bn = basename($k);        
         $d['etitle']=$bn;
         $big5k = dbcconv($k, 0);  
-        $big5k = utf8tobig5($big5k);         
+        $big5k = utf8tobig5($big5k);                 
         $mta = file_get_contents("{$big5k}{$SP}metadata.txt");
            
         $jmta=json_decode($mta,true);
@@ -60,9 +54,10 @@
       @mkdir("{$ini['COMIC_PATH']}{$SP}{$title}",0777);
       $t_list = getDomHTML($data ,".tg");
       $metadata = ARRAY();
-      $metadata['title']=$title;
+      $metadata['title']=$title;      
       $big5_title = dbcconv($title, 0);
-      $big5_title = utf8tobig5($big5_title);      
+      $big5_title = utf8tobig5($big5_title);
+      $big5_title=str_replace(":","_",$big5_title);      
       $cs = ARRAY();
       //print_r($t_list);
       foreach($t_list as $v)
@@ -70,10 +65,13 @@
          $d = ARRAY();
          //[26] => <a class="tg" href="/m200339/" title="喪女 第70话">第70话</a>
          preg_match_all("/href=\"\/(.*)\/\"\stitle=\"(.*)\">/",$v,$m);
-         //print_r($m);
-         $path = "{$ini['COMIC_PATH']}{$SP}{$title}{$SP}{$m[2][0]}";
-         $path = dbcconv($path, 0);         
-         $path = utf8tobig5($path);
+         //print_r($m);                  
+         $big5_m2 = dbcconv($m[2][0], 0);         
+         $big5_m2 = utf8tobig5($big5_m2);
+         $big5_m2 = str_replace(":","_",$big5_m2);
+         $path = "{$ini['COMIC_PATH']}{$SP}{$big5_title}{$SP}{$big5_m2}";
+
+         //comic_log($path);
          mkdir($path,0777,true);
          //mkdir("C:\\comic\\你好",0777);
          //echo `mkdir "{$path}"`;
@@ -92,6 +90,7 @@
       $POSTS=getGET_POST($POSTS_STRING,'POST');
       $big5cname = dbcconv($POSTS['cname'], 0); 
       $big5cname=utf8tobig5($big5cname);
+      $big5cname = str_replace(":","_",$big5cname);
       $data = file_get_contents("{$ini['COMIC_PATH']}{$SP}{$big5cname}{$SP}metadata.txt");
       $jmta=json_decode($data,true);
       //$jmta['items']=array_values(array_unique($jmta['items']));
@@ -340,6 +339,9 @@
       <?php
       $big5_cname=utf8tobig5(dbcconv($ra[0]['cname'],0));
       $big5_req = utf8tobig5(dbcconv($ra[0]['req'],0));
+      $big5_cname = str_replace(":","_",$big5_cname);
+      $big5_req = str_replace(":","_",$big5_req);
+      
       for($i=1;$i<=$ra[0]['total_pages'];$i++)
       {               
         
