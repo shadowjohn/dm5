@@ -63,7 +63,9 @@
   $all_done=true;
   $failure_count=0;
   $big5_cname=utf8tobig5(dbcconv($ra[0]['cname'],0));
+  $big5_cname = str_replace(":","_",$big5_cname);
   $big5_req = utf8tobig5(dbcconv($ra[0]['req'],0));
+  $big5_req = str_replace(":","_",$big5_req);
   for($i=1;$i<=$ra[0]['total_pages'];$i++)
   {
 
@@ -130,7 +132,7 @@
     array_push($options['header'],"Referer:http://www.dm5.com/{$ra[0]['link']}/");
     array_push($options['header'],"X-Requested-With:XMLHttpRequest");
     $C = curl_getPost_continue($C['curl'],$URL,"",$options);
-    print_r($C);
+    //print_r($C);
     $pds = get_between_new($C['output'],",'|","'.split");
 
     //h://k.m-l-g-b.e.f/9
