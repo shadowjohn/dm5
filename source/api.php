@@ -38,19 +38,28 @@
       $POSTS_STRING="book_url";
       $POSTS=getGET_POST($POSTS_STRING,'POST');
       $URL=$POSTS['book_url'];
+      
       if(!is_string_like($URL,'http://www.dm5%'))
       {
         exit();
       }
+      //echo "TEST";
       $C = curl_getPost_INIT($URL,"",$options=null);
       $data = $C['output'];
-      $t = getDomHTML($data ,".inbt_title_h2");
+      /*$t = getDomHTML($data ,".inbt_title_h2");
       $title = strip_tags(trim($t[0]));
+      comic_log($data);
+      */
+      $mm=explode("var DM5_COMIC_MNAME=\"",$data);
+      $mm=explode("\";",$mm[1]);
+      $title = trim($mm[0]); //第一神拳
+      //comic_log($title);  
       if($title=="")
       {
         echo "No Title...";
         exit();
-      }                
+      }              
+      //comic_log($title);  
       @mkdir("{$ini['COMIC_PATH']}{$SP}{$title}",0777);
       $t_list = getDomHTML($data ,".tg");
       $metadata = ARRAY();
@@ -59,7 +68,7 @@
       $big5_title = utf8tobig5($big5_title);
       $big5_title=str_replace(":","_",$big5_title);      
       $cs = ARRAY();
-      //print_r($t_list);
+      print_r($t_list);
       foreach($t_list as $v)
       {
          $d = ARRAY();
